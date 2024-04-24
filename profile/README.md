@@ -1,6 +1,8 @@
 **This is the home of the AMR Rules project on GitHub.**
 
-An overview of the concept, with example rules and code, is available in the [AMRrules](https://github.com/interpretAMR/AMRrules) repository.
+Our goal is to develop interpretive standards for AMR genotypes, akin to the interpretive standards developed by [EUCAST](https://www.eucast.org/) and [CLSI](https://clsi.org/) for antimicrobial susceptibility phenotyping. 
+
+An overview of the concept, with example data structures and code, is available in the [AMRrules](https://github.com/interpretAMR/AMRrules) repository.
 
 We are partnering with [ESGEM, the ESCMID Study Group on Epidemiological Markers](https://www.escmid.org/esgem/), to form an ESGEM-AMR Working Group to curate organism-specific rule sets. Membership of the working group is open to anyone with relevant expertise, you do not have to be an ESGEM member. 
 
